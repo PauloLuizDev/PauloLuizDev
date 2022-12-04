@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </div>
 <br>
-
+<!--
  ## ⭐️ GitHub Stats
  
  <div align="center">
@@ -42,7 +42,7 @@
 </div>
 
 
-<!--
+
 **PauloLuizDev/PauloLuizDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
